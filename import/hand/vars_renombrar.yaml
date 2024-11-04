@@ -1,0 +1,11 @@
+# Nuevo nombre: nombre original
+defun:
+  - tipo_defun: presunto
+
+catminde:
+  - cve: clave
+  - causa_descrip: descrip
+  - causa_descrip: nombre
+
+parentesco:
+  - parentesco_descrip: descrip

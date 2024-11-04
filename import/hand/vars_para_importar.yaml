@@ -1,0 +1,32 @@
+all:
+  - ent_ocurr
+  - mun_ocurr
+  - ent_resid
+  - mun_resid
+  - causa_def
+  - sexo
+  - edad
+  - dia_ocurr
+  - mes_ocurr
+  - anio_ocur
+  - escolarida
+  - edo_civil
+  - tipo_defun
+  - lugar_ocur
+  - rel_emba
+  - ocupacion
+  - nacionalid
+  - derechohab
+
+any:
+  - afromex
+  - conindig
+  - lengua
+  - cve_lengua
+  - nacesp_cve
+  - ocurr_trab
+  - tloc_ocurr
+  - loc_ocurr
+  - cond_act
+  - par_agre
+  - vio_fami

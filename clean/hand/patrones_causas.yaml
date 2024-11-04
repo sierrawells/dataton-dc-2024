@@ -1,0 +1,42 @@
+vivienda:
+  - "en vivienda"
+inst_residencial:
+  - "institucion residencial"
+via_publica:
+  - "calles y carreteras"
+  - "area industrial y de la construccion"
+  - "areas de deporte y atletismo"
+  - "comercio y area de servicios"
+  - "en escuelas"
+otro_lugar:
+  - "otro lugar especificado"
+  - "granja"
+lugar_na:
+  - "lugar no especificado"
+
+arma_fuego:
+  - "arma de fuego"
+  - "armas de fuego"
+  - "arma larga"
+  - "arma corta"
+arma_blanca:
+  - "objeto cortante"
+  - "objeto romo o sin filo"
+  - "cuchillo"
+ahorcar:
+  - "ahorcamiento"
+  - "ahogamiento"
+veneno:
+  - "drogas, medicamentos y sustancias biologicas"
+  - "productos quimicos y sustancias nocivas"
+  - "plaguicidas"
+  - "sustancia corrosiva"
+fuerza_corporal:
+  - "fuerza corporal"
+  - "golpe contra"
+  - "aporreo"
+sexual:
+  - "sexual"
+maltrato:
+  - "maltrato"
+  - "abandono"
